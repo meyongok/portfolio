@@ -435,8 +435,6 @@ a.active {
 .about-img-div img {
     margin: 0 auto; 
    
-
-    border-radius: 50%;
 }
 
 }
@@ -1039,7 +1037,7 @@ fieldset {
 	.container h2{
 		text-align:right;
 		font-size:60px;
-		color:#425BB5;
+		color:#fff;
 		font-family: 'Lato', sans-serif;
 	}
 	.dia{
