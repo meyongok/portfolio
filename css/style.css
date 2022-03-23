@@ -54,10 +54,19 @@ font-family: 'Open Sans', sans-serif;
 h1 {
     font-family:   'S-CoreDream-3Light';
     font-size: 80px;
-    line-height: 70px;
+    line-height: 100px;
 	color: #1a1145;
 }
 
+.tit4{ font-family: 'S-CoreDream-4Regular';
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    position: relative;
+    color: #fff  ;
+    margin-left: 40px;
+    margin-top: 80px;
+    font-weight: 700;
+    line-height: 30px;}
 h4 {
     font-family: 'S-CoreDream-4Regular';
     text-transform: capitalize;
@@ -65,7 +74,9 @@ h4 {
     position: relative;
     color: #1a1145   ;
     margin-left: 40px;
+    margin-top: 80px;
     font-weight: 700;
+    line-height: 30px;
 }
 
 h4:before {
@@ -311,9 +322,9 @@ a.active {
 	#home .container h2{
 		width:500px;
 		
-		font-size:50px;
+		font-size:120px;
 		color:#fffAEE;
-		margin:50px 0 0 150px;
+		padding:50px 0  100px;
 		font-family: 'S-CoreDream-4Regular';;
 	}
 
@@ -342,8 +353,8 @@ a.active {
 		
 	}
 	.dia{
-		width:300px;
-		margin:230px 0 0 200px;
+		width:600px;
+		margin:100px 0 0 100px;
 		
 		
 	}
@@ -372,7 +383,7 @@ a.active {
 	h1 {
         font-family: 'Playfair Display', serif;
         font-size: 50px;
-        line-height: 50px;
+        line-height: 60px;
     }
     #home,
     .disply-table {
@@ -385,7 +396,7 @@ a.active {
 	}
 	.container h2{
 		text-align:center;
-		font-size:60px;
+		font-size:100px;
 		color:#fff;
 		font-family: 'Lato', sans-serif;
 	}
@@ -402,7 +413,7 @@ a.active {
 	.box h4{
 		font-size:18px;
 		margin:30px 0 0 150px;
-		color:#fff;
+		color:#1a1145;
 		
 		
 
@@ -433,7 +444,7 @@ a.active {
 }
 
 .about-img-div img {
-    margin: 0 auto; 
+    margin: 0 auto;  padding: 100px 0 100px;
    
 }
 
@@ -1017,7 +1028,7 @@ fieldset {
     h1 {
         font-family: 'Playfair Display', serif;
         font-size: 50px;
-        line-height: 50px;
+        line-height: 60px;
     }
     #home,
     .disply-table {
@@ -1035,13 +1046,12 @@ fieldset {
 		margin-top:100px;
 	}
 	.container h2{
-		text-align:right;
-		font-size:60px;
+		text-align:left;
 		color:#fff;
 		font-family: 'Lato', sans-serif;
 	}
 	.dia{
-		width:200px;
+		width:600px;
 		margin:80px 0 0 120px;
 		
 	}
